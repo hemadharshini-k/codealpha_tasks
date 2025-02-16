@@ -18,11 +18,8 @@ This project is a simple calculator application built using HTML, CSS, and JavaS
 
 ## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/calculator-repo.git
-   ```
-2. Open the `index.html` file in a web browser to use the calculator.
+1. Clone the repository:( https://github.com/hemadharshini-k/codealpha_tasks)
+3. Open the `index.html` file in a web browser to use the calculator.
 
 ## Contributing
 
